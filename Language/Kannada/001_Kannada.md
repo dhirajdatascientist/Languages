@@ -18,6 +18,7 @@
     - Nimma mane elli?
 1. My house is in Jayanagara
     - Nanna mane Jayanagaradalli.
-1. Had your breakfast?: thindi aitha? or Tiffin aitha?
+1. Had your breakfast?
+    - thindi aitha? or Tiffin aitha?
 
 
