@@ -6,7 +6,7 @@
     - Hegiddeera?
 1. I am fine
     - Chennagiddeeni.
-1. Hope you are fine
+1. Are you ok?/How are you?
     - Chennagiddeera?
 1. Then, what's up?
     - Matte, enu samachara?
@@ -16,8 +16,8 @@
     - Nanna hesaru Rama.
 1. Where is your house?
     - Nimma mane elli?
-1. My house is in Jayanagara
-    - Nanna mane Jayanagaradalli.
+1. My house is in Bengaluru 
+    - Nanna mane Bengaluru.
 1. Had your breakfast?
     - thindi aitha? or Tiffin aitha?
 
